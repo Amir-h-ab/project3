@@ -1708,10 +1708,10 @@ strong {
         grid-template-columns: 1fr;
     }
     .icon-svg-fixed-1 {
-        padding: 0.5rem;
+        padding: 0.8rem;
     }
     .icon-svg-fixed-2 {
-        padding: 0.5rem;
+        padding: 0.8rem;
     }
 }
 @media only screen and (max-width: 320px) {
